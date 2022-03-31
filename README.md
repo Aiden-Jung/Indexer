@@ -20,4 +20,4 @@ Subtraction, 178, 191, 197, 250, 265
     floating-point, 100, 214, 219, 230, 232, 238, 249
     power series, 506
 ```
-Collaborated with Mingi Lee and written with the assistance of Professor Hajiamini
+Written with the assistance of Professor Hajiamini and collaborated with Mingi Lee
